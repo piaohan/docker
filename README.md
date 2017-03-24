@@ -4,4 +4,7 @@
 * mysql5.7
 * ubuntu14.04
 * nginx
-* php-fpm
+* php-fpm7.0
+
+
+(php-fpm7.0)[https://hub.docker.com/r/muyong/php7.0-fpm/]
